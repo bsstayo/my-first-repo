@@ -1,7 +1,7 @@
 # Brand NEW repository 🚀
 **2023 Summer SKKU GitHub Class**
 
-This project is to learn GitHub in a fun way! :octocat: :
+This project is to learn GitHub in a fun way! :octocat: 🐱 🐙
 
 ![GitHub_character](https://f4n3x6c5.stackpathcdn.com/article/what-is-git-github-and-github-desktop-and-create-a-git-repository-in-github-usi/Images/github.png)
 
