@@ -52,7 +52,7 @@ public class Test {
 
 
 ## How to write branch names efficiently
-- main/master: Default branch. Protect safely with 'Branch Protection' and set it not to merge directly.
+- main/master: Default branch. Protect safely with 'Branch Protection' and set it not to merge directly.
   
 - development branch or other stage branch: Following the DevOps model, modeling branches like DEV. UAT. PROD. For example, the 'main' branch is tested on the 'dev' or 'uat' branch, safely deployed on the 'prod/release' branch, and then merge.
   
