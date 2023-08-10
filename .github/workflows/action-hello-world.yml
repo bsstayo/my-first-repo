@@ -1,0 +1,21 @@
+name: Hello World!
+
+on:
+   push:
+      branches:
+         - main
+            
+jobs:
+   Hello-World-Action:
+      name: Hello New Push
+      runs-on: ubuntu-latest
+      
+      steps:
+         - name: Checkout repository
+           uses: actions/checkout@v2
+        
+         - name: Make hello-world.sh executable
+           run: chmod +x scripts/hello-world.sh
+        
+         - name: Execute hello-world.sh
+           run: ./scripts/hello-world.sh
